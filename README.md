@@ -2,6 +2,8 @@
 
 This project explores the popularity of various programming languages over time using data from Stack Overflow. The analysis visualizes the number of posts for different programming languages, helping identify trends and shifts in popularity. The data is either sourced from a provided `.csv` file or fetched directly from Stack Exchange via SQL queries.
 
+![A Data-Driven Analysis of the Popularity of Different Programming Languages over Time](https://github.com/NoorMahammad-S/Data-Driven_Analysis_of_the_Popularity_of_Different_Programming_Languages_over_Time/blob/master/Images/Image.jpg)
+
 ## Features
 - **Data Handling & Exploration**:
   - Load and preprocess data using Pandas.
@@ -65,7 +67,7 @@ Chart aesthetics such as font size, axis labels, and chart size are modified for
 Time series data can fluctuate significantly, so the script also includes rolling mean calculations to help visualize longer-term trends for each language.
 
 ## Example Output
-![Python and Java Popularity](example_chart.png)
+![Python Popularity](https://github.com/NoorMahammad-S/Data-Driven_Analysis_of_the_Popularity_of_Different_Programming_Languages_over_Time/blob/master/Images/Python%20Popularity.png)
 
 ## Customizing the Script
 - **Data Source**: You can replace the provided `.csv` file with fresh data by running an SQL query directly on Stack Exchange.
